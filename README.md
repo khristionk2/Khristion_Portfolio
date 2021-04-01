@@ -14,7 +14,7 @@
 ## Image with sale price having no original list price
 ![](https://github.com/khristionk2/Khristion_Portfolio/blob/main/images/Screen%20Shot%202021-03-31%20at%202.55.10%20PM.png)
 
-## Image having sale price and original price 
+## Image having sale price and original list price 
 ![](https://github.com/khristionk2/Khristion_Portfolio/blob/main/images/Screen%20Shot%202021-03-31%20at%202.55.40%20PM.png)
 
 ## Data stored in SQL database
