@@ -9,9 +9,9 @@
 * Loop through each file in the folder and opens and parses them into a Python object identifying the seller name, seller score, item price, item price, list price, items sold, title, returns allowed(true / false), shipping price, condition (e.g., used, new, like new, seller refurbished, ...)
 * Uploaded data that was extracted in the previous step to SQL database
 * Convert any price (item price and shipping price) into a "dollar-cent" format (e.g., convert $12.34 into 1234 and $12 into 1200
-* Evaluate data and determine whether original list price influences the number of items sold
+* Evaluate data and determine whether the presence of the original list price influences the number of items sold
 
-## Image with sale price having no original list price
+## Product Image with sale price having no original list price
 ![](images/Screen%20Shot%202021-03-31%20at%202.55.10%20PM.png)
 
 ## Image having sale price and original list price 
