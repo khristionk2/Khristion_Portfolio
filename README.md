@@ -12,11 +12,11 @@
 * Evaluate data and determine whether original list price influences the number of items sold
 
 ## Image with sale price having no original list price
-![](https://github.com/khristionk2/Khristion_Portfolio/blob/main/images/Screen%20Shot%202021-03-31%20at%202.55.10%20PM.png)
+![](/images/Screen%20Shot%202021-03-31%20at%202.55.10%20PM.png)
 
 ## Image having sale price and original list price 
-![](https://github.com/khristionk2/Khristion_Portfolio/blob/main/images/Screen%20Shot%202021-03-31%20at%202.55.40%20PM.png)
+![](images/Screen%20Shot%202021-03-31%20at%202.55.40%20PM.png)
 
 ## Data stored in SQL database
-![](https://github.com/khristionk2/Khristion_Portfolio/blob/main/images/Screen%20Shot%202021-04-01%20at%2011.43.57%20AM.png)
+![](/images/Screen%20Shot%202021-04-01%20at%2011.43.57%20AM.png)
 
