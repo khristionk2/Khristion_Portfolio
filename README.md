@@ -11,11 +11,11 @@
 * Convert any price (item price and shipping price) into a "dollar-cent" format (e.g., convert $12.34 into 1234 and $12 into 1200
 * Evaluate data and determine whether the presence of the original list price influences the number of items sold
 
+## Product Image having sale price and original list price 
+![](images/Screen%20Shot%202021-03-31%20at%202.55.40%20PM.png)
+
 ## Product Image with sale price having no original list price
 ![](images/Screen%20Shot%202021-03-31%20at%202.55.10%20PM.png)
-
-## Image having sale price and original list price 
-![](images/Screen%20Shot%202021-03-31%20at%202.55.40%20PM.png)
 
 ## Data stored in SQL database
 ![](images/Screen%20Shot%202021-04-01%20at%2011.43.57%20AM.png)
