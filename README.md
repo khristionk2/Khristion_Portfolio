@@ -1,5 +1,3 @@
-# Khristion_Portfolio
-
 # [Project 1: eBay President's Day Price Evaluation](https://github.com/khristionk2/eBay-Project)
 
 * Conducted a thorough analysis of eBay's Presidents Day sale on select products to determine if the presence of an original list price influences the number of items sold
