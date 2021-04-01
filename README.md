@@ -10,3 +10,8 @@
 * Uploaded data that was extracted in the previous step to SQL database
 * Convert any price (item price and shipping price) into a "dollar-cent" format (e.g., convert $12.34 into 1234 and $12 into 1200
 * Evaluate data and determine whether original list price influences the number of items sold
+
+![](https://github.com/khristionk2/Khristion_Portfolio/blob/main/images/Screen%20Shot%202021-03-31%20at%202.55.10%20PM.png)
+![](https://github.com/khristionk2/Khristion_Portfolio/blob/main/images/Screen%20Shot%202021-03-31%20at%202.55.40%20PM.png)
+![](https://github.com/khristionk2/Khristion_Portfolio/blob/main/images/Screen%20Shot%202021-04-01%20at%2011.43.57%20AM.png)
+
