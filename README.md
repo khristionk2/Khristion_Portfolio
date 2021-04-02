@@ -46,5 +46,5 @@
 ![](images/unemployment.png)
 
 # Ethnicity Trends
-* The majority of the white population voted for Trump, whereas the majority of the minorities populations voted for Clinton
+* The majority of the white population voted for Trump, whereas the majority of the minority populations voted for Clinton
 ![](images/ethnicity.png)
