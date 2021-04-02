@@ -14,7 +14,7 @@
 # [Project 2: Reddit - Wallstreetbets : Gamestop Analysis](https://github.com/khristionk2/Gamestop-WSB)
 ![](images/GameStop--1200x675.jpeg)
 * The purpose of this project is to understand the unprecedented behavior of stocks, particularly Gamestop (GME), during the early part of 2021.
-* I am seeking to understand what lead to this through an analysis, exploring whether the comments and sentiments have a relationship with the volume and price of the stock
+* I am seeking to understand what lead to this, through an analysis, exploring whether the comments and sentiments have a relationship with the volume and price of the stock
 
 # Total Comments on Wallstreetbets & Close Price of GME
 ![](images/totalcomments_close.png)
