@@ -19,7 +19,7 @@
 # Total Comments on Wallstreetbets & Close Price of GME
 ![](images/totalcomments_close.png)
 
-# Total Comments on Wallstreetbets & Sentiment Score (Compound)
+# Close Price of GME & Sentiment Score (Compound)
 ![](images/close_sentiment.png)
 
 
