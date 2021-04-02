@@ -1,5 +1,5 @@
 # [Project 1: eBay President's Day Price Evaluation](https://github.com/khristionk2/eBay-Project)
-
+![](images/ebay-logo-1-1200x630-margin.png)
 * Conducted a thorough analysis of eBay's Presidents Day sale on select products to determine if the presence of an original list price influences the number of items sold
 
 ## Product Image having sale price and original list price 
@@ -24,6 +24,7 @@
 
 
 # [Project 3: COVID19 Forecasting](https://github.com/khristionk2/COVID-ARIMA-Forecasting)
+![](images/covid19.png)
 
 * The purpose of this project is to learn ARIMA models and then apply that knowledge to forecast Covid cases and deaths.
 * Utilizing ARIMA and Forecast Combination I was able to predict the next 30 days of COVID cases and deaths in Colorado.
