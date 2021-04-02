@@ -11,7 +11,19 @@
 ## Data stored in SQL database
 ![](images/Screen%20Shot%202021-04-01%20at%2011.43.57%20AM.png)
 
-# [Project 2: COVID19 Forecasting](https://github.com/khristionk2/COVID-ARIMA-Forecasting)
+# [Project 2: Reddit - Wallstreetbets : Gamestop Analysis](https://github.com/khristionk2/Gamestop-WSB)
+![](images/GameStop--1200x675.jpeg)
+* The purpose of this project is to understand the unprecedented behavior of stocks, particularly Gamestop (GME), during the early part of 2021.
+* I am seeking to understand what lead to this through an analysis, exploring whether the comments and sentiments have a relationship with the volume and price of the stock
+
+# Total Comments on Wallstreetbets & Close Price of GME
+![](images/totalcomments_close.png)
+
+# Total Comments on Wallsteetbets & Sentiment Score (Compound)
+![](images/close_sentiment.png)
+
+
+# [Project 3: COVID19 Forecasting](https://github.com/khristionk2/COVID-ARIMA-Forecasting)
 
 * The purpose of this project is to learn ARIMA models and then apply that knowledge to forecast Covid cases and deaths.
 * Utilizing ARIMA and Forecast Combination I was able to predict the next 30 days of COVID cases and deaths in Colorado.
@@ -28,7 +40,7 @@
 
 ![](images/CO%20Deaths.png)
 
-# [Project 3: Voter Behavior - Election 2016 ](https://github.com/khristionk2/Election-2016)
+# [Project 4: Voter Behavior - Election 2016 ](https://github.com/khristionk2/Election-2016)
 * This project takes a closer look into the 2016 Presidential Election to understand the behaviors of people across the nation and their voting behaviors
 * Key areas focused on are income, employment, and ethnicity
 
