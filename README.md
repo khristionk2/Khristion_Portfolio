@@ -27,3 +27,22 @@
 * The blue line represents the prediction forecast of deaths for the next 30 days 
 
 ![](images/CO%20Deaths.png)
+
+# [Project 3: Voter Behavior - Election 2016 ](https://github.com/khristionk2/Election-2016)
+
+# Election Results
+
+![](images/Results.png)
+
+# Income Trends
+* You can see the majority of people who voted for Clinton had higher income than people who voter for Trump
+
+![](images/income.png)
+
+# Employment Trends
+* The majority of people who voted for Trump had higher unemployment rates
+![](images/unemployment.png)
+
+# Ethnicity Trends
+* The majority of the white population voted for Trump, whereas the majority of the minorities populations voted for Clinton
+![](images/ethnicity.png)
