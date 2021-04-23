@@ -41,7 +41,13 @@
 
 ![](images/CO%20Deaths.png)
 
-# [Project 4: Voter Behavior - Election 2016 ](https://github.com/khristionk2/Election-2016)
+#[Projects 4: Diabetes Prediction ](https://github.com/khristionk2/Diabetes-Prediction)
+*The purpose of this project is to predict and identify patients who are at risk of diabetes so they seek medical intervention early. Determine the best machine learning model to predict the outcomes.
+
+![](images/Screen%20Shot%202021-04-22%20at%2011.42.06%20PM.png)
+![](images/Screen%20Shot%202021-04-22%20at%2011.43.11%20PM.png)
+
+# [Project 5: Voter Behavior - Election 2016 ](https://github.com/khristionk2/Election-2016)
 * This project takes a closer look into the 2016 Presidential Election to understand the behaviors of people across the nation and their voting behaviors
 * Key areas focused on are income, employment, and ethnicity
 
