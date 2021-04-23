@@ -41,7 +41,7 @@
 
 ![](images/CO%20Deaths.png)
 
-#[Projects 4: Diabetes Prediction ](https://github.com/khristionk2/Diabetes-Prediction)
+# [Projects 4: Diabetes Prediction](https://github.com/khristionk2/Diabetes-Prediction)
 *The purpose of this project is to predict and identify patients who are at risk of diabetes so they seek medical intervention early. Determine the best machine learning model to predict the outcomes.
 
 ![](images/Screen%20Shot%202021-04-22%20at%2011.42.06%20PM.png)
